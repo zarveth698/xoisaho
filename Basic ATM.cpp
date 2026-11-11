@@ -14,7 +14,6 @@ int main()
 	int withdrawanToday = 0;
 	bool isLoggedIn = false;
 	
-	
 	cout<<"=================Welcome to ATM==================== \n";
 	
 	while(attempts<3)
