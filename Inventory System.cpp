@@ -62,7 +62,6 @@ int main()
 				cout<<"\n Insufficient Balance\n =========================================";
 			}
 		break;
-		
 		default:
 			cout<<"\n Invalid Choice\n =========================================";
 		break;
