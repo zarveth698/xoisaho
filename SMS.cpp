@@ -8,6 +8,7 @@ int main()
 	float perc;
 	cout<<"Enter the Name of the Student: ";
 	cin>>studentName;
+
 	
 	cout<<"Enter the Student Marks of Computer, Maths, English, Physics, Urdu Respectively: "<<endl;
 	for(int i=0; i<5; i++)
